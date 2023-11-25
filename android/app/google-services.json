@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545918627076",
+    "project_id": "login-project-fb6dd",
+    "storage_bucket": "login-project-fb6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545918627076:android:7ae88883a6598d4628b451",
+        "android_client_info": {
+          "package_name": "com.example.medicalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfIBc53mEKyWz_QXfnOi81ro_7Oo351M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
