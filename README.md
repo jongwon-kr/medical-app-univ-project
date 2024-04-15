@@ -88,6 +88,10 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 #### 센서
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/fad89ece-f5c5-4402-bd77-49d424c124ee" width="800" height="300">
 
+#### 설계도
+<img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/0730e568-fe06-46a7-b49b-56bee38bcc9a" width="800" height="350">
+
+
 ##### Arduino 및 Data수집 Github
 https://github.com/jongwon-kr/univ4-1-capstoneProject-utils
 ##### 서버 Github
