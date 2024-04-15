@@ -1,4 +1,4 @@
-![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/c4d2af6b-fc65-440f-9053-8f3cb8ab9d65)## 헬스케어 모바일 서비스 앱
+![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/b16b010c-5874-4c68-a0e4-6e23ad1bbcd1)![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/c4d2af6b-fc65-440f-9053-8f3cb8ab9d65)## 헬스케어 모바일 서비스 앱
 #### 프로젝트 목적
 동의보감 서비스를 통해 자신의 몸 상태에 대해 심각한 질병을 가지고 있을거라고 생각하는 현대인들에게 가정에서 쉽고 빠르게 자신의 상태를 측정하고 이를 스마트폰 앱을 통하여 확인할 수 있도록 하여 건강 염려증을 예방하는것을 목표로 한다.
 
@@ -30,15 +30,27 @@
 Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Arduino
 
 #### DB
-##### Oracle
-- 질환
-- 빈도
-- 문진
-- 문진정보
-##### Firebase
-- 사용자(Authentication)
-- 마일리지(firestoreDB)
-- 메시지(firestoreDB)
+##### OracleDB / 테이블명(Column)
+- 질환(!질환번호, 질환명, 정의, 원인, 증상, 진단, 치료, 경과, 주의사항, 부위)
+- 빈도(질환번호,  빈도수)
+- 문진(순번, 날짜, 이름, 증상)
+- 문진정보(이름,  의심질병)
+
+##### Firebase / 컬렉션명(필드)
+- dailyquest(checkarduino, checkhealth, date, oxquiz)
+- messages(createdAt, msgTime, nickname, sender, text)
+- mileages(email, point)
+- quiz(answer, comment, id, quiz)
+- userinfo(nickname, birth, gender, hint, answer)
+
+#### 구현 및 설명
+![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6)
+
+
+
+
+
+
 
 
 ## END
