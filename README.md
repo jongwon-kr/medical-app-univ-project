@@ -44,31 +44,41 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 - **userinfo**(nickname, birth, gender, hint, answer)
 
 ### 구현 및 설명
+
 #### 메인화면
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6" width="400" height="400">
 
 #### 로그인 / 회원가입
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/d4f4585b-e158-4e2f-a5cb-e691e26dad7b" width="1000" height="420">
 
 #### 채팅방
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/d22fd36f-ba20-4b68-bd36-12dcd70dcff6" width="400" height="420">
 
 #### 문진 / 내정보
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/bf47665e-519a-4097-85e4-f525a40d41b0" width="600" height="420">
 
-#### 질환 백
+#### 질환 백과
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/49c0ea39-6d88-42c7-85de-dacd750a7016" width="1000" height="420">
 
 #### ChatBot
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1cf5ee6e-2d41-4732-acf7-25334bf8af66" width="400" height="420">
 
 #### 자가진단 블루투스 연결
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/b066fbb4-b371-4a41-b02d-bf16e31fb0ad" width="800" height="420">
 
 #### 자가진단
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1b2fd91a-280c-45c1-8fcf-30bcc5e2c86b" width="600" height="420">
 
-#### 내정보
+#### 내 정보
+##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1f864325-f208-4726-a9e4-bed245746447" width="800" height="420">
 
 ### Arduino
