@@ -31,17 +31,17 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 
 #### 데이터베이스
 **OracleDB / 테이블명(Column)**
-- 질환(!질환번호, 질환명, 정의, 원인, 증상, 진단, 치료, 경과, 주의사항, 부위)
-- 빈도(질환번호,  빈도수)
-- 문진(순번, 날짜, 이름, 증상)
-- 문진정보(이름,  의심질병)
+- **질환**(!질환번호, 질환명, 정의, 원인, 증상, 진단, 치료, 경과, 주의사항, 부위)
+- **빈도**(질환번호,  빈도수)
+- **문진**(순번, 날짜, 이름, 증상)
+- **문진정보**(이름,  의심질병)
 
 **Firebase / 컬렉션명(필드)**
-- dailyquest(checkarduino, checkhealth, date, oxquiz)
-- messages(createdAt, msgTime, nickname, sender, text)
-- mileages(email, point)
-- quiz(answer, comment, id, quiz)
-- userinfo(nickname, birth, gender, hint, answer)
+- **dailyquest**(checkarduino, checkhealth, date, oxquiz)
+- **messages**(createdAt, msgTime, nickname, sender, text)
+- **mileages**(email, point)
+- **quiz**(answer, comment, id, quiz)
+- **userinfo**(nickname, birth, gender, hint, answer)
 
 #### 구현 및 설명
 ![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6)
