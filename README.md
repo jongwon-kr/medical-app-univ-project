@@ -25,7 +25,7 @@
 2023.09 ~ 2023.11
 
 ## 개발 환경 및 언어
-- Visual Studio Code![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/e0b4566a-128e-4e7e-9683-b345d36f3d81)
+- Visual Studio Code
 
 - Flutter
 - Dart
