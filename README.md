@@ -29,14 +29,14 @@
 #### 개발 환경 및 언어
 Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Arduino
 
-#### DB
-##### OracleDB / 테이블명(Column)
+#### 데이터베이스
+**OracleDB / 테이블명(Column)**
 - 질환(!질환번호, 질환명, 정의, 원인, 증상, 진단, 치료, 경과, 주의사항, 부위)
 - 빈도(질환번호,  빈도수)
 - 문진(순번, 날짜, 이름, 증상)
 - 문진정보(이름,  의심질병)
 
-##### Firebase / 컬렉션명(필드)
+**Firebase / 컬렉션명(필드)**
 - dailyquest(checkarduino, checkhealth, date, oxquiz)
 - messages(createdAt, msgTime, nickname, sender, text)
 - mileages(email, point)
