@@ -43,10 +43,10 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 - **quiz**(answer, comment, id, quiz)
 - **userinfo**(nickname, birth, gender, hint, answer)
 
-#### 아두이노 및 Data수집 Github
+##### 아두이노 및 Data수집 Github
 https://github.com/jongwon-kr/univ4-1-capstoneProject-utils
-#### 서버 Github
-
+##### 서버 Github
+https://github.com/jongwon-kr/medical-app-univ-project-server-
 
 #### 구현 및 설명
 ![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6)
