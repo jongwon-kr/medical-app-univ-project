@@ -12,9 +12,7 @@
 - 유저 채팅 방 운영
 - 웹 크롤링을 통한 최신 건강칼럼 top 10
 ## 프로젝트 팀원 구성
-![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/8ef6b1d5-8703-4ccf-b7c3-f54a6c3e3ca8)
-
-
+3명(풀스택)
 ## 나의 역할
 - APP 개발 , DB 구축, 데이터 수집 및 정제, Arduino
 
@@ -27,7 +25,8 @@
 2023.09 ~ 2023.11
 
 ## 개발 환경 및 언어
-- Visual Studio Code
+- Visual Studio Code![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/e0b4566a-128e-4e7e-9683-b345d36f3d81)
+
 - Flutter
 - Dart
 - Firebase
