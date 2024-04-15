@@ -46,14 +46,22 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 ### 구현 기능 및 이미지
 
 #### 메인화면
+##### 기능
+- OX 퀴즈 : firebase의 quiz컬렉션을 통해 약 20개의 건강퀴즈 제공(하루에 5개 맞추면 최대 마일리지 획득)
+- BBC 건강칼럼 top10 : flutter내부에서 크롤링을 통해 건강칼럼 데이터를 가져와서 리스트로 보여주고 클릭시 해당 칼럼 WebView를 띄움
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6" width="400" height="400">
 
 #### 로그인 / 회원가입
+##### 기능
+- 로그인 및 회원가입 : firebase의 Authentication을 이용해서 회원가입과 로그인 기능 구현
+- 비밀번호 재설정 : 회원가입 이메일을 통해 비밀번호 재설정 메일로 변경가능
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/d4f4585b-e158-4e2f-a5cb-e691e26dad7b" width="1000" height="420">
 
 #### 채팅방
+##### 기능
+- 실시간 채팅 스트림 : 로그인 시 이용할 수 있으며 사용자의 nickname과 email을 통해 DB에있는 메시지 데이터를 스트림에 담아 보여주고 채팅전송시 실시간으로 업데이트 구현
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/d22fd36f-ba20-4b68-bd36-12dcd70dcff6" width="400" height="420">
 
@@ -66,14 +74,20 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/49c0ea39-6d88-42c7-85de-dacd750a7016" width="1000" height="420">
 
 #### ChatBot
+##### 기능
+- 챗봇 : OpenAI의 chatgpt API를 활용하여 Q&A 챗봇 구현
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1cf5ee6e-2d41-4732-acf7-25334bf8af66" width="400" height="420">
 
 #### 자가진단 블루투스 연결
+##### 기능
+- 블루투스 연동
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/b066fbb4-b371-4a41-b02d-bf16e31fb0ad" width="800" height="420">
 
 #### 자가진단
+##### 기능
+- 자가 진단 : Arduino에서 검사를 완료하면 블루투스를 통해 데이터를 전송받아 활용가능
 ##### 이미지
 <img src="https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1b2fd91a-280c-45c1-8fcf-30bcc5e2c86b" width="600" height="420">
 
