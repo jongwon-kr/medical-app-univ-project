@@ -45,6 +45,8 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 
 #### 구현 및 설명
 ![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/7d386a6c-936f-4313-9a6a-d2e004cf0ed6)
+![image](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/d4f4585b-e158-4e2f-a5cb-e691e26dad7b)
+
 
 
 
