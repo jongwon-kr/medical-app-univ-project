@@ -50,6 +50,22 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 
 
 
+![스크린샷 2024-04-15 115205](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/bf47665e-519a-4097-85e4-f525a40d41b0)
+![스크린샷 2024-04-15 115216](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/49c0ea39-6d88-42c7-85de-dacd750a7016)
+![스크린샷 2024-04-15 115225](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1cf5ee6e-2d41-4732-acf7-25334bf8af66)
+![스크린샷 2024-04-15 115235](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/b066fbb4-b371-4a41-b02d-bf16e31fb0ad)
+![스크린샷 2024-04-15 115242](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1b2fd91a-280c-45c1-8fcf-30bcc5e2c86b)
+![스크린샷 2024-04-15 115249](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/4acf162c-b08b-4bda-946b-ad8a8bd61ab1)
+![스크린샷 2024-04-15 115315](https://github.com/jongwon-kr/medical-app-univ-project/assets/76871947/1f864325-f208-4726-a9e4-bed245746447)
+
+
+
+
+
+
+
+
+
 
 ##### 아두이노 및 Data수집 Github
 https://github.com/jongwon-kr/univ4-1-capstoneProject-utils
