@@ -40,6 +40,8 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 - **quiz**(answer, comment, id, quiz)
 - **userinfo**(nickname, birth, gender, hint, answer)
 
+### 시스템 아키텍처
+
 ### 구현 기능 및 이미지
 
 #### 메인화면
