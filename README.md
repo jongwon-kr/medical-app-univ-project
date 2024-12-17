@@ -42,6 +42,8 @@ Java, Dart, JSP, Oracle, Flutter, Firebase, OpenAI, Arduino, VsCode, Eclipse, Ar
 
 ### 시스템 아키텍처
 
+![image](https://github.com/user-attachments/assets/9259866c-8d03-4427-9297-efb562e04996)
+
 ### 구현 기능 및 이미지
 
 #### 메인화면
